@@ -25,11 +25,6 @@ to withdraw money,deposit.
 #### ACTIVITY DIAGRAM image
 ![image](https://github.com/AmruthaRajsheker/LAB-1-ATM/assets/119475943/548c2092-044f-45c3-a7d9-da493d5767c0)
 
-### RESULT:
-Thus the Atm and banking System project was executed and the output was verified.
-
-
-
 
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
